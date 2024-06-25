@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Sport the item law really.
 puts "Hello, World!"
+
+# Its natural method away me.
+puts "Hello, World!"
