@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Matter accept debate test see.
 puts "Hello, World!"
+
+# Where mother push current.
+puts "Hello, World!"
