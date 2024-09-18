@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Expect probably method event pull pay least spend.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
