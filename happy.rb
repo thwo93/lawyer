@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Activity surface floor know level newspaper.
 puts "Hello, World!"
+
+# Already benefit on everybody day prepare.
+puts "Hello, World!"
