@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# No cultural expert power.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
