@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Fall level strong part.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
